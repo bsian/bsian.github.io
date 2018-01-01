@@ -1,0 +1,145 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+	
+	background-image:url(file://///C:/Users/Ian%20R/Documents/senior%20project/img/background-light.jpg);
+	background-size:800%;
+	margin:   ;
+	color:  ;
+	text-align:  ;
+
+}
+
+h1 { color: ;
+	font-size:  ; 
+	font-family:  ;
+}
+
+h2 { color: ;
+	font-size:  ;
+	font-family:  ;
+}
+
+
+
+/*Division Assignments*/
+#container{	
+			height:900px;
+			width:1000px ;
+			background:;
+			float: ;
+			margin: auto ;
+			padding:  ;
+			border:  ;
+			text-align:  ;}
+
+#one{		height: 100px;
+			width: 1000px;
+			background:;
+			float:left ;
+			margin:  ;
+			padding:  ;
+			border:  ;
+			text-align:  ;
+
+}
+#two{		
+
+    background-image:;
+
+			height: 60px;
+			width: 750px;
+			background:;
+			float:left ;
+			margin:  ;
+			padding:  ;
+			border:  ;
+			text-align:  ;
+
+}
+#navlist
+{
+margin: 0;
+padding: 0 0 20px 10px;
+border-bottom: 1px solid #000;
+}
+
+#navlist ul, #navlist li
+{
+	font-family: 'Montserrat', sans-serif;
+margin: 0;
+padding: 0;
+display: inline;
+list-style-type: none;
+
+}
+
+#navlist a:link, #navlist a:visited
+{
+float: left;
+line-height: 14px;
+font-weight: bold;
+margin: 0 10px 4px 10px;
+text-decoration: none;
+color: #FF8C00;
+}
+
+#navlist a:link#current, #navlist a:visited#current, #navlist a:hover
+{
+border-bottom: 4px solid #FF8C00;
+padding-bottom: 2px;
+background: transparent;
+color: #FF8C00;
+}
+
+
+#five{
+			height:760px;
+			width: 250px;
+			background: ;
+			float: right;
+			margin: ;
+			padding:  ;
+			border:  ;
+			text-align:  ;
+			font-family: 'Montserrat', sans-serif;
+}
+#navlist a:hover { color: #FF8C00; }
+#three{
+			height:1500px;
+			width: 750px;
+			background: ;
+			float: left;
+			margin: ;
+			padding:  ;
+			border:  ;
+			text-align:  ;
+			font-family: 'Montserrat', sans-serif;
+			
+			
+}
+
+
+
+
+
+#four{
+	height: 100px;
+	width: 1000px;
+	background: ;
+	float: ;
+font-family: 'Montserrat', sans-serif;
+			margin: auto 0;
+			padding:  ;
+			border:  ;
+			text-align:  ;
+	bottom: 0;
+	text-align: center;
+			
+ 
+}
+
+
+
